@@ -41,8 +41,7 @@
 
        cancelBtn.addEventListener('click', function() {
            
-           if (confirm('😭 why!')) {
-               window.location.href = '/'; 
+          alert(`🫵 😭 😡`) 
        });
 
        privacyContent.addEventListener('scroll', function() {
